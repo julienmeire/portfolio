@@ -1,9 +1,10 @@
-# Portfolio
+# Portfolio Meire Julien
+Année académique 2023-2024
 
 ## Description
 Portefolio réalisé dans le cadre de mes études en technologies de l'informatique à l'établissement de l'Ephec situé à Louvain-La-Neuve.
 
-## Formations
+## Formations en ligne
 - **OpenClassrooms** :
   - Angular : 12 heures
   - Express : 8 heures
@@ -12,7 +13,7 @@ Preuve : Annexe 1, 2, 3 et 4
 
 ## Expérience Professionnelle
 - **Job étudiant chez Puilaetco** :
-  - KYC (Know Your Customer) et aide à la conformité : 148 heures
+  - KYC (Know Your Customer) et aide à la compliance : 148 heures
 Preuve : Annexe 5
 
 ## Apprentissage Linguistique
@@ -27,5 +28,5 @@ Preuve : Annexe 6 et 7
 Preuve : Annexe 8
 
 ## Expérience Antérieure
-- Poste marketing dans le cadre d'une mini entreprise réalisé lors de ma dernière année d'études secondaires : 0 heures car avant l'Ephec.
+- Poste marketing dans le cadre d'une mini entreprise réalisé lors de ma dernière année d'études secondaires : 0 heures prestable car avant l'Ephec.
 Preuve : Annexe 8
