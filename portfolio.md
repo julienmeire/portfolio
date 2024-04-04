@@ -9,16 +9,22 @@ Portefolio réalisé dans le cadre de mes études en technologies de l'informati
   - Angular : 12 heures
   - Express : 8 heures
   - PowerShell : 6 heures
- 
-J'ai suiv les formations Angular et Express par moi-même pour étoffer mes capacités et pouvoir affronter efficacement le cours de DEV 3.
+
+ ### Cadre
+J'ai utilisé la plateforme Openclassromms pour ses formations en ligne gratuite de qualité.
+
+J'ai suiv les formations "Débutez avec Angular" et "Passez au Full Stack avec Node.js, Express et MongoDB" par moi-même pour étoffer mes capacités et pouvoir affronter efficacement le cours de DEV 3.
 
 J'avais besoin de ces connaissances pour réussir le cours et il m'est apparu qu'au contraire des cas des vidéos de tutoriel de plusieurs heures, je préferais largement suivre une formation qui me propose un accompagnement et quelques challenges.
 
-La formation en PowerShell que j'ai réalisé s'inscrit dans une optique de combler des lacunes dans une matière que je considère comme très imortante.
+La formation "Planifiez vos tâches avec des scripts PowerShell sur Windows Server" que j'ai réalisé s'inscrit dans une optique de combler des lacunes dans une matière que je considère comme très imortante.
 Je me souviens d'une conversation avec Monsieur Delvigne, il m'expliquait qu'il avait du réduire le nombres d'heures disponibles pour apprendre à ses élèves le language console et tout ce qui étaot possible.
 Le résultat fut que des connaissances à lui qui avaient embauchés des diplomés de l'Ephec, n'étaient pas satisafait par le manque de compétences de ces jeunes dans le domaine des lignes de commandes.
 
 Je ressors de ces formations avec une bonne base. Pas suffisante pour combler toutes mes lacunes mais suffisament pour me mettre en bonne condition pour attaquer un projet et éttofer mes capacités par la suite.
+Je comprends désormais les termes et technologies utilisés pour construire un frontend et backend. Je suis capable de construire des applications basiques possédant des components et programmer des controllers et middelware. 
+
+Je suis également en capacité de créer des scripts PowerShell permettant d'obtenir des informations systèmes, d'automatiser des tâches, de créer des dossiers partagés et d'eefectur des actions sur un domain controller comme la création d'user et leur ajout à un groupe.
 
 
 
