@@ -4,30 +4,43 @@ Année académique 2023-2024
 ## Description
 Portefolio réalisé dans le cadre de mes études en technologies de l'informatique à l'établissement de l'Ephec situé à Louvain-La-Neuve.
 
-## Formations en ligne
+## Formations en ligne : 20h
 - **OpenClassrooms** :
   - Angular : 12 heures
   - Express : 8 heures
   - PowerShell : 6 heures
+ 
+J'ai suiv les formations Angular et Express par moi-même pour étoffer mes capacités et pouvoir affronter efficacement le cours de DEV 3.
+
+J'avais besoin de ces connaissances pour réussir le cours et il m'est apparu qu'au contraire des cas des vidéos de tutoriel de plusieurs heures, je préferais largement suivre une formation qui me propose un accompagnement et quelques challenges.
+
+La formation en PowerShell que j'ai réalisé s'inscrit dans une optique de combler des lacunes dans une matière que je considère comme très imortante.
+Je me souviens d'une conversation avec Monsieur Delvigne, il m'expliquait qu'il avait du réduire le nombres d'heures disponibles pour apprendre à ses élèves le language console et tout ce qui étaot possible.
+Le résultat fut que des connaissances à lui qui avaient embauchés des diplomés de l'Ephec, n'étaient pas satisafait par le manque de compétences de ces jeunes dans le domaine des lignes de commandes.
+
+Je ressors de ces formations avec une bonne base. Pas suffisante pour combler toutes mes lacunes mais suffisament pour me mettre en bonne condition pour attaquer un projet et éttofer mes capacités par la suite.
+
+
+
 Preuve : Annexe 1, 2, 3 et 4
 
-## Expérience Professionnelle
+## Expérience Professionnel : 10h
 - **Job étudiant chez Puilaetco** :
   - KYC (Know Your Customer) et aide à la compliance : 148 heures
 Preuve : Annexe 5
 
-## Apprentissage Linguistique
+## Apprentissage Linguistique : 10h
 - **Japonais (niveau B1)** :
   - Formation continue en autonomie depuis 3 ans, difficile de relever le nombre d'heures.
   - Moyenne de 2-3 heures par semaine sur 3 ans, totalisant environ 360 heures.
   - Participation de deux semaines à la semaine internationale organisée par l'Ephec en collaboration avec l'OGU (Osaka Gakuin University) : 0 heures pour ce portfolio car en lien direct avec mes études.
 Preuve : Annexe 6 et 7 
 
-## Soft Skills
+## Soft Skills : 10h
 - Capitaine d'une équipe de volley avec préparation d'entraînement une fois sur deux, depuis 2 ans : 250 heures.
 Preuve : Annexe 8
 
-## Expérience Antérieure
+## Expérience Antérieure : 0h
 - Poste marketing dans le cadre d'une mini entreprise réalisé lors de ma dernière année d'études secondaires : 0 heures prestable car avant l'Ephec.
 Preuve : Annexe 8
 
