@@ -1,8 +1,10 @@
 # Portfolio Meire Julien
 Année académique 2023-2024
 
+
 ## Description
 Portefolio réalisé dans le cadre de mes études en technologies de l'informatique à l'établissement de l'Ephec situé à Louvain-La-Neuve.
+
 
 ## Formations en ligne : 20h
 - **OpenClassrooms** :
@@ -10,7 +12,9 @@ Portefolio réalisé dans le cadre de mes études en technologies de l'informati
   - Express : 8 heures
   - PowerShell : 6 heures
 
+
  ### Cadre
+ 
 J'ai utilisé la plateforme Openclassromms pour ses formations en ligne gratuite de qualité.
 
 J'ai suiv les formations "Débutez avec Angular" et "Passez au Full Stack avec Node.js, Express et MongoDB" par moi-même pour étoffer mes capacités et pouvoir affronter efficacement le cours de DEV 3.
@@ -27,13 +31,40 @@ Je comprends désormais les termes et technologies utilisés pour construire un 
 Je suis également en capacité de créer des scripts PowerShell permettant d'obtenir des informations systèmes, d'automatiser des tâches, de créer des dossiers partagés et d'eefectur des actions sur un domain controller comme la création d'user et leur ajout à un groupe.
 
 
-
 Preuve : Annexe 1, 2, 3 et 4
+
+
 
 ## Expérience Professionnel : 10h
 - **Job étudiant chez Puilaetco** :
   - KYC (Know Your Customer) et aide à la compliance : 148 heures
+ 
+### Cadre
+
+J'ai eu la chance de pouvoir travailler dans une grande banque lors d'un job étudiant. Ma soeur travaillait là-bas à la compliance et de par notre relation, j'ai pu prétendre à un job étudiant.
+
+Cette banque se situait avant son déménagement à Auderghem. Bien que ce soit une période de vacances scolaire, j'ai tout de même rencontré des problèmes de circulation qui m'ont préparé aux longs trajtes et embouteillages. Mon stage se déroulant à Wavre, je pouvais prendre 40 minutes pour y aller. Mais fort de mon expérience, cela ne m'a pas causé pas trop de tracas.
+
+Ma première mission consistait en une rétrospective des clients de la Banque. Cette review se fait annuellement et permet de connaître les évolutions des situations de la clientèle. 
+
+Cela permet de savoir si certains d'entre eux ont hérités de grosses fortunes ou si ils ont attrapés une mauvaise réputation.
+
+Ces informations sont nécessaires pour attribuer un niveau de danger. Cette métrique permet à la compliance de recevoir des alertes plus ou moins importantes en fonction du client.
+
+Pour ce faire, j'ai dû épelucher des dossiers clients et utiliser des outils comme la plateforme en ligne de la BCE (Banque Carrefour des Entreprises), le moniteur belge et un autre outil payant (dont j'ai oublié le nom) capable sur base de la recherche du nom d'une personne, d'obtenir toutes ses participations en tant que mandataire, membre du bord de direction ou dirigeant d'une entreprise.
+
+Ma seconde mission a consisté en la classification des dossiers.
+
+Ma dernière mission a porté sur la vérification des provenances des sommes versées par des comptes étrangers lorsque la compliance était débordée.
+
+Ce job étudiant m'a beaucoup apporté en me démontrant les aspects de la vie d'un employé avec ses avantages et inconvénients. 
+
+Ce fut une première expérience dans un milieu si professionnel. J'ai gagné en lucidité et je me positionne mieux selon mes conditions de travail idéal.
+
+ 
 Preuve : Annexe 5
+
+
 
 ## Apprentissage Linguistique : 10h
 - **Japonais (niveau B1)** :
