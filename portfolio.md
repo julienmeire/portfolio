@@ -31,7 +31,7 @@ Je comprends désormais les termes et technologies utilisés pour construire un 
 Je suis également en capacité de créer des scripts PowerShell permettant d'obtenir des informations systèmes, d'automatiser des tâches, de créer des dossiers partagés et d'eefectur des actions sur un domain controller comme la création d'user et leur ajout à un groupe.
 
 
-Preuve : Annexe 1, 2, 3 et 4
+[Preuves des formations](https://ephec-my.sharepoint.com/personal/he124902_students_ephec_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhe124902%5Fstudents%5Fephec%5Fbe%2FDocuments%2FPreuves%20portfolio%2FFormations%20en%20ligne&view=0) 
 
 
 
@@ -62,7 +62,7 @@ Ce job étudiant m'a beaucoup apporté en me démontrant les aspects de la vie d
 Ce fut une première expérience dans un milieu si professionnel. J'ai gagné en lucidité et je me positionne mieux selon mes conditions de travail idéal.
 
  
-Preuve : Annexe 5
+[Preuve sous forme d'une fiche de paye](https://ephec-my.sharepoint.com/personal/he124902_students_ephec_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhe124902%5Fstudents%5Fephec%5Fbe%2FDocuments%2FPreuves%20portfolio%2FJob%20%C3%A9tudiant%28KYC%29&view=0) 
 
 
 
@@ -71,15 +71,18 @@ Preuve : Annexe 5
   - Formation continue en autonomie depuis 3 ans, difficile de relever le nombre d'heures.
   - Moyenne de 2-3 heures par semaine sur 3 ans, totalisant environ 360 heures.
   - Participation de deux semaines à la semaine internationale organisée par l'Ephec en collaboration avec l'OGU (Osaka Gakuin University) : 0 heures pour ce portfolio car en lien direct avec mes études.
-Preuve : Annexe 6 et 7 
+
+[Attestation semaine internationale et vidéo de présentation pour cette dernière](https://ephec-my.sharepoint.com/personal/he124902_students_ephec_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhe124902%5Fstudents%5Fephec%5Fbe%2FDocuments%2FPreuves%20portfolio%2FApprentissage%20linguistique&view=0) 
 
 ## Soft Skills : 10h
 - Capitaine d'une équipe de volley avec préparation d'entraînement une fois sur deux, depuis 2 ans : 250 heures.
-Preuve : Annexe 8
+- 
+[Photo de la P4H dans laquelle j'étais capitaine](https://ephec-my.sharepoint.com/personal/he124902_students_ephec_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhe124902%5Fstudents%5Fephec%5Fbe%2FDocuments%2FPreuves%20portfolio%2FSoft%20Skills&view=0) 
 
 ## Expérience Antérieure : 0h
 - Poste marketing dans le cadre d'une mini entreprise réalisé lors de ma dernière année d'études secondaires : 0 heures prestable car avant l'Ephec.
-Preuve : Annexe 8
+
+[Attestation de suivi d'une mini-entreprise](https://ephec-my.sharepoint.com/personal/he124902_students_ephec_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhe124902%5Fstudents%5Fephec%5Fbe%2FDocuments%2FPreuves%20portfolio%2FExp%C3%A9rience%20ant%C3%A9rieur&view=0) 
 
 
 ## Projet Professionnel
@@ -109,3 +112,5 @@ Cela traduit un certain manque de maturité. On m'a dit que cela était commun �
 
 J'ai peur de rentrer parfaitement dans ces rangs.
 Je vais devoir travailler la-dessus pour devenir un élément réellement utile et sur qui on peut compter.
+
+[Mon CV](https://ephec-my.sharepoint.com/personal/he124902_students_ephec_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhe124902%5Fstudents%5Fephec%5Fbe%2FDocuments%2FPreuves%20portfolio%2FCV&view=0) 
