@@ -12,7 +12,6 @@ Portefolio réalisé dans le cadre de mes études en technologies de l'informati
   - Express : 8 heures
   - PowerShell : 6 heures
 
-
  ### Cadre
  
 J'ai utilisé la plateforme OpenClassroom pour ses formations en ligne gratuites de qualité.
