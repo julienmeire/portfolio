@@ -105,7 +105,7 @@ Il m'est arrivé à de rares occasions d'organiser les entraînements faute d'en
 
 
 ## Expérience Antérieure : 0h
-- Poste marketing dans le cadre d'une mini entreprise réalisé lors de ma dernière année d'études secondaires : 0 heures prestable car avant l'Ephec.
+- Poste marketing dans le cadre d'une mini entreprise réalisé lors de ma dernière année d'études secondaires : environ 75 heures en comptant les réunions et sessions de vente, aucune heure prestable car avant l'Ephec.
 
 ### Cadre
 
