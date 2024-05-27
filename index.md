@@ -27,7 +27,7 @@ Je ressors de ces formations avec une bonne base. Pas suffisante pour combler to
 Je suis également en capacité de créer des scripts PowerShell permettant d'obtenir des informations système, d'automatiser des tâches, de créer des dossiers partagés et d'effectuer des actions sur un domain controller comme la création d'utilisateurs et leur ajout à un groupe.
 
 
-[Preuves des formations](https://ephec-my.sharepoint.com/personal/he124902_students_ephec_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhe124902%5Fstudents%5Fephec%5Fbe%2FDocuments%2FPreuves%20portfolio%2FFormations%20en%20ligne&view=0) 
+[Preuves des formations](https://ephec-my.sharepoint.com/:f:/g/personal/he124902_students_ephec_be/EnopdFjtyRtFhdjrNA0Q4QsBZW86wJ6QXsDwsUlMn7he0Q?e=XuPQ4F) 
 
 
 
@@ -59,8 +59,7 @@ Ce job étudiant m'a beaucoup apporté en me démontrant les aspects de la vie d
 Ce fut une première expérience dans un milieu si professionnel. J'ai gagné en lucidité et je me positionne mieux selon mes conditions de travail idéales.
 
  
-[Preuve sous forme d'une fiche de paye](https://ephec-my.sharepoint.com/personal/he124902_students_ephec_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhe124902%5Fstudents%5Fephec%5Fbe%2FDocuments%2FPreuves%20portfolio%2FJob%20%C3%A9tudiant%28KYC%29&view=0) 
-
+[Preuve sous forme d'une fiche de paye](https://ephec-my.sharepoint.com/:f:/g/personal/he124902_students_ephec_be/EvcjXBEgONZDpbV46DU0tDoBdzNt0siHbt_LJWkuN3NIcQ?e=qjZYA5) 
 
 
 ## Apprentissage Linguistique : 10h
@@ -81,8 +80,7 @@ J'ai eu la chance de pouvoir m'inscrire à la semaine internationale en collabor
 
 J'ai aujourd'hui un niveau satisfaisant me permettant de tenir des conversations simples en japonais.
 
-[Attestation semaine internationale et vidéo de présentation pour cette dernière](https://ephec-my.sharepoint.com/personal/he124902_students_ephec_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhe124902%5Fstudents%5Fephec%5Fbe%2FDocuments%2FPreuves%20portfolio%2FApprentissage%20linguistique&view=0) 
-
+[Attestation semaine internationale et vidéo de présentation pour cette dernière](https://ephec-my.sharepoint.com/:f:/g/personal/he124902_students_ephec_be/EqGPqW7QlGJPn-lTGQv8kRAB5my2jWSvKA4q9jWiWs4E4w) 
 
 ## Soft Skills : 10h
 - Capitaine d'une équipe de volley avec préparation d'entraînement une fois sur deux, depuis 2 ans : 250 heures.
@@ -101,7 +99,7 @@ C'est pourquoi grâce à ma voix portante et à mon physique imposant (et parce 
 
 Il m'est arrivé à de rares occasions d'organiser les entraînements faute d'entraîneur disponible.
 
-[Photo de la P4H dans laquelle j'étais capitaine](https://ephec-my.sharepoint.com/personal/he124902_students_ephec_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhe124902%5Fstudents%5Fephec%5Fbe%2FDocuments%2FPreuves%20portfolio%2FSoft%20Skills&view=0) 
+[Photo de la P4H dans laquelle j'étais capitaine](https://ephec-my.sharepoint.com/:f:/g/personal/he124902_students_ephec_be/ElSeD8QvXjZGjL8T996aZoMBxAL9CHIZdlS-QDRxIgzSeA?e=1ehZzF) 
 
 
 ## Expérience Antérieure : 0h
@@ -119,7 +117,7 @@ Notre produit consistait en un livre recensant les jeux à boire les plus popula
 
 Notre projet n'a pas fait l'unanimité et a souvent été source de moqueries. Mais ce fut tout de même une expérience enrichissante, car nous avons démontré la dure réalité de l'univers d'une jeune entreprise désireuse de se lancer sur un nouveau marché.
 
-[Attestation de suivi d'une mini-entreprise](https://ephec-my.sharepoint.com/personal/he124902_students_ephec_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhe124902%5Fstudents%5Fephec%5Fbe%2FDocuments%2FPreuves%20portfolio%2FExp%C3%A9rience%20ant%C3%A9rieur&view=0) 
+[Attestation de suivi d'une mini-entreprise](https://ephec-my.sharepoint.com/:f:/g/personal/he124902_students_ephec_be/EvH8jXBB6RhJnOtBvEXOUsUBB3gPRntYCqOcKQ_EoE17yg?e=Dq9t4x)  
 
 
 ## Projet Professionnel
@@ -140,4 +138,4 @@ Cela traduit un certain manque de maturité. On m'a dit que c'était courant dan
 
 J'ai peur de me conformer parfaitement à ces schémas. Je vais devoir travailler là-dessus pour devenir un élément réellement utile et sur lequel on peut compter.
 
-[Mon CV](https://ephec-my.sharepoint.com/personal/he124902_students_ephec_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhe124902%5Fstudents%5Fephec%5Fbe%2FDocuments%2FPreuves%20portfolio%2FCV&view=0) 
+[Mon CV](https://ephec-my.sharepoint.com/:f:/g/personal/he124902_students_ephec_be/Ehv7WQRP-Q9BrpEts-V_s7YBg4NxCb_Z94imf33qAkwxcw?e=QKcPVg)
